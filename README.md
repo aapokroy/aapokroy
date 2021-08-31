@@ -31,3 +31,4 @@ Also you can contact me via:
 
 [![Email](https://img.shields.io/badge/-Email-de4343?logoColor=white&link=mailto:pokroy-tema@yandex.ru)](mailto:pokroy-tema@yandex.ru)
 [![VK](https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&link=https://vk.com/mmkuznecov)](https://vk.com/pokroy)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&link=https://t.me/pokroy)](https://t.me/pokroy)
