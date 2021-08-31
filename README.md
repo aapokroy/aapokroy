@@ -2,7 +2,7 @@
 
 ### List of technologies
 
-I specialize in machine learning and data science in geniral. I'm familiar with classical statistical methods, deep learning models and fundamental science behind them.
+I specialize in machine learning and data science in general. I'm familiar with classical statistical methods, deep learning models, and the fundamental science behind them.
 
 You can see set of mostly used technologies and libraries below:
 
