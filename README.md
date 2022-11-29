@@ -4,19 +4,6 @@
 
 I specialize in machine learning and data science in general. I'm familiar with classical statistical methods, deep learning models, and the fundamental science behind them.
 
-You can see set of mostly used technologies and libraries below:
-
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)]()
-[![Python 3](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]()
-[![Java](https://img.shields.io/badge/-Java-ED1C24?logo=java&logoColor=white)]()
-[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)]()
-[![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)]()
-[![Pytorch](https://img.shields.io/badge/-Pytorch-D00000?logo=pytorch&logoColor=white)]()
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-0000?logo=Tensorflow&color=orange&logoColor=white)]()
-[![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
-[![CatBoost](https://img.shields.io/badge/-CatBoost-0000?&logo=&color=yellow&logoColor=white)]()
-[![OpenCV](https://img.shields.io/badge/-OpenCV-0000?&logo=&color=green&logoColor=white)]()
-
 ### :rocket: Projects
 
 * [Queue analysis](https://github.com/mmkuznecov/queue_analysis) - System for queue detection and control.
