@@ -12,9 +12,7 @@ I specialize in machine learning and data science in general. I'm familiar with 
 
 ### :mailbox: Contact info
 
-You can check out my CV [here](https://drive.google.com/file/d/1ql7j2cfu04iOCIN3o723OyWCTWSPjcog/view?usp=sharing).
-
-Also you can contact me via:
+You can contact me via:
 
 [![Email](https://img.shields.io/badge/-Email-de4343?logoColor=white&link=mailto:pokroy-tema@yandex.ru)](mailto:pokroy-tema@yandex.ru)
 [![VK](https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&link=https://vk.com/mmkuznecov)](https://vk.com/pokroy)
