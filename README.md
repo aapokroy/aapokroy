@@ -26,7 +26,7 @@ I have a strong interest in machine learning and data science in general. I'm al
 
 
 ## :mailbox: Contact info
-You can check out my CV [here]().
+You can check out my CV [here](https://drive.google.com/file/d/1vvWY6cTx2kPWvOzayG6ONule_ZHiQ-LJ/view?usp=share_link).
 
 [![Email](https://img.shields.io/badge/-Email-de4343?logoColor=white&link=mailto:pokroy-tema@yandex.ru)](mailto:pokroy-tema@yandex.ru)
 [![VK](https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&link=https://vk.com/mmkuznecov)](https://vk.com/pokroy)
