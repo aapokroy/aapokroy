@@ -4,7 +4,7 @@ I have a strong interest in machine learning and data science in general. I'm al
 
 ## :rocket: Projects
 
-* [IMU Data Collection](https://https://github.com/TLMOS/imu_data_collection) - IOT data collection system for IMU sensors. Made for MIPT AI laboratory to be used for pose estimation research.
+* [IMU Data Collection](https://github.com/TLMOS/imu_data_collection) - IOT data collection system for IMU sensors. Made for MIPT AI laboratory to be used for pose estimation research.
 * [EfficientNets for DeepFake Detection: Comparison of Pretrained Models](https://ieeexplore.ieee.org/document/9396092) - research on using pretrained EfficientNets for DeepFake detection. Published in IEEE Xplore.
 * [Queue analysis](https://github.com/mmkuznecov/queue_analysis) - system for queue density analysis.
 * [AIvsBIAS](https://github.com/mmkuznecov/AIvsBIAS) - little research on removing gender bias for Word2Vec NLP models. You can check out project landing [here](https://aivsbias.feather.cloudns.cl/) (RU).
