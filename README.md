@@ -1,4 +1,4 @@
-**Hi 👋** My name is **Artem Pokroy**. Currently I'm a software engineer student at NRNU MEPhI, Moscow, Russian Federation.
+**Hi 👋** My name is **Artem Pokroy**. Currently I'm a data scientist at Avito Tech.
 I have a strong interest in machine learning and data science in general. I'm also interested in software engineering and web development. My main programming language is Python, I have strong fundamentals in machine learning and as follows in math and statistics.
 
 
